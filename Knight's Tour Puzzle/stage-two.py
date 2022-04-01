@@ -1,5 +1,5 @@
 """
-*** Stage 1/6: Setting up the board ***
+*** Stage 2/6: And now for something completely different! ***
 
 Description
 
@@ -87,6 +87,7 @@ Enter the knight's starting position: > 5 5
   -------------------------------------------
       1   2   3   4   5   6   7   8   9  10
 """
+
 
 def check_dimension():
     while True:
