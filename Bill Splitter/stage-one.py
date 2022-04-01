@@ -47,8 +47,7 @@ No one is joining for the party
 ------------
 """
 
-print("Enter the number of friends joining (including you):")
-num = int(input())
+num = int(input("Enter the number of friends joining (including you):"))
 if num <= 0:
     print("No one is joining for the party")
 else:
